@@ -8,11 +8,14 @@ Feel free to test them, learn and use.
 
 ## Table of Contents
 
-1. [CRUD - Create Read Upload Delete](#crud-create-read-upload-delete)
-2. [Selection](#selection)
-3. [String Functions](#string-functions)
-4. [Aggregate Functions](#aggregate-functions)
-5. [MySQL with Python](mysql-with-python)
+1. [Downloading](#downloading)
+2. [CRUD - Create Read Upload Delete](#crud---create-read-upload-delete)
+3. [Selection](#selection)
+4. [String Functions](#string-functions)
+5. [Aggregate Functions](#aggregate-functions)
+6. [Database management](#database-management)
+7. [MySQL with Python](#mysql-with-python)
+8. [Technologies](#technologies)
 
 
 ## Downloading
@@ -47,11 +50,11 @@ $ git clone https://github.com/monikaglazz/MySQL.git your_project_name
 
 ### Database management
 
-* [Database Shop]()
+* [Database Shop](https://github.com/monikaglazz/MySQL/tree/main/Database%20shop)
 
 ### MySQL with Python
 
-* [Database Sales]()
+* [Database Sales](https://github.com/monikaglazz/MySQL/tree/main/Database%20Sales)
 
 
 
@@ -59,4 +62,6 @@ $ git clone https://github.com/monikaglazz/MySQL.git your_project_name
 A list of technologies used within the project:
 * [MySQL Workbench](https://www.python.org/): Version 8.0.31
 * [MySQL](https://code.visualstudio.com/): Version 8.0.31
+* Python: Version 3.10.8
+* Visual Studio Code: Version 1.73.1
 

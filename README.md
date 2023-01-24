@@ -60,8 +60,8 @@ $ git clone https://github.com/monikaglazz/MySQL.git your_project_name
 
 ## Technologies
 A list of technologies used within the project:
-* [MySQL Workbench](https://www.python.org/): Version 8.0.31
-* [MySQL](https://code.visualstudio.com/): Version 8.0.31
-* Python: Version 3.10.8
-* Visual Studio Code: Version 1.73.1
+* [MySQL Workbench](https://www.mysql.com/products/workbench/): Version 8.0.31
+* [MySQL](https://www.mysql.com/): Version 8.0.31
+* [Python](https://www.python.org/): Version 3.10.8
+* [Visual Studio Code](https://code.visualstudio.com/): Version 1.73.1
 

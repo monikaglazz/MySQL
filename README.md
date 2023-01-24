@@ -13,9 +13,11 @@ Feel free to test them, learn and use.
 3. [Selection](#selection)
 4. [String Functions](#string-functions)
 5. [Aggregate Functions](#aggregate-functions)
-6. [Database management](#database-management)
-7. [MySQL with Python](#mysql-with-python)
-8. [Technologies](#technologies)
+6. [Comparison ond operators](#comparison-ond-operators)
+7. [Joins](#joins)
+8. [Database management](#database-management)
+9. [MySQL with Python](#mysql-with-python)
+10. [Technologies](#technologies)
 
 
 ## Downloading
@@ -46,7 +48,15 @@ $ git clone https://github.com/monikaglazz/MySQL.git your_project_name
 
 ### Aggregate Functions
 
-* [Aggregate Funcions](https://github.com/monikaglazz/MySQL/blob/main/aggregate_functions.sql)
+* [Aggregate Functions](https://github.com/monikaglazz/MySQL/blob/main/aggregate_functions.sql)
+
+### Comparison ond operators
+
+* [Comparison ond operators](https://github.com/monikaglazz/MySQL/blob/main/comparision_and_operators.sql)
+
+### Joins
+
+* [Joins](https://github.com/monikaglazz/MySQL/blob/main/joins.sql)
 
 ### Database management
 

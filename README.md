@@ -8,10 +8,11 @@ Feel free to test them, learn and use.
 
 ## Table of Contents
 
-1. [Create, Read, Upload, Delete](#crud)
+1. [CRUD - Create Read Upload Delete](#crud-create-read-upload-delete)
 2. [Selection](#selection)
 3. [String Functions](#string-functions)
 4. [Aggregate Functions](#aggregate-functions)
+5. [MySQL with Python](mysql-with-python)
 
 
 ## Downloading
@@ -28,7 +29,7 @@ $ git clone https://github.com/monikaglazz/MySQL.git your_project_name
 
 ## Table of Contents
 
-### Create, Read, Upload, Delete
+### CRUD - Create Read Upload Delete
 
 * [CRUD](https://github.com/monikaglazz/MySQL/blob/main/CRUD.sql)
 
@@ -43,6 +44,15 @@ $ git clone https://github.com/monikaglazz/MySQL.git your_project_name
 ### Aggregate Functions
 
 * [Aggregate Funcions](https://github.com/monikaglazz/MySQL/blob/main/aggregate_functions.sql)
+
+### Database management
+
+* [Database Shop]()
+
+### MySQL with Python
+
+* [Database Sales]()
+
 
 
 ## Technologies

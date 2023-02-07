@@ -61,6 +61,10 @@ $ git clone https://github.com/monikaglazz/MySQL.git your_project_name
 ### Database management
 
 * [Database Shop](https://github.com/monikaglazz/MySQL/tree/main/Database%20shop)
+* [Database Works](https://github.com/monikaglazz/MySQL/tree/main/Database%20works)
+* [Database SocialMedia](https://github.com/monikaglazz/MySQL/tree/main/Database%20SocialMedia)
+* [Database Films Ratings](https://github.com/monikaglazz/MySQL/tree/main/Database%20Films%20Ratings)
+
 
 ### MySQL with Python
 

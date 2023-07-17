@@ -2,7 +2,7 @@ import mysql.connector
 from mysql.connector import errorcode
 
 try:
-    cnx = mysql.connector.connect(user='root', password = '}oW_z?Pz6;66', host = 'localhost', database='Sales')
+    cnx = mysql.connector.connect(user='root', password = 'password', host = 'localhost', database='Sales')
 
     print("Enter the data for new order")
 

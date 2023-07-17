@@ -7,7 +7,7 @@ if len(sys.argv) > 1:
     status = sys.argv[1]
 
     try:
-        cnx = mysql.connector.connect(user='root', password='}oW_z?Pz6;', host='localhost', database='Parcels')
+        cnx = mysql.connector.connect(user='root', password='password', host='localhost', database='Parcels')
         cursor = cnx.cursor()
         format = "%Y-%m-%d"
         if status == "shipment":
